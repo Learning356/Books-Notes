@@ -1,6 +1,6 @@
 # PrimeNumber-Notes
 
 
-# I will take notes from the book I have read:
-# 1. <Prime Number's Beauty>
+__ I will take notes from the book I have read:
+_____ 1. <Prime Number's Beauty>
 
